@@ -54,5 +54,4 @@ David Pigott | pigottdm@uw.edu | @davidmpigott |
 Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
 Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
 Jessie Wu | chiehhsi.wu@gmail.com | | @jessiewu
-Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 |
-
+Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 |@BoXu123
